@@ -1,0 +1,6 @@
+{
+  "name": "Notes Sharing Platform for Students",
+  "description": "Collaborative study note-writing workspace with real-time sync, institutional classrooms, co-author streams, and Gemini AI assistant tutor integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
