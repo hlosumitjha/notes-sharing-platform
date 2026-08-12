@@ -4,6 +4,13 @@
 
 A full-stack **academic notes sharing and collaboration platform** designed for university students and faculty. The platform allows users to create, organize, share, discuss, and collaboratively edit study notes while providing classroom management, role-based access control, moderation tools, notifications, and AI-powered study assistance.
 
+## 🌐 Live Demo
+
+**Live Application:** [Notes Sharing Platform](https://notes-sharing-platform-6fpc.onrender.com/)
+
+> The application is deployed on Render and can be accessed directly using the link above.
+
+
 Built with **React, TypeScript, Vite, Express, WebSockets, Tailwind CSS, and Google Gemini AI**.
 
 ---
